@@ -2,7 +2,7 @@
 	"position": "bottom", 
 		"layer":"top",
 		"height": 30,
-		"modules-center": ["wlr/workspaces", "network", "pulseaudio", "battery", "clock"],
+		"modules-center": ["hyprland/workspaces", "network", "pulseaudio", "battery", "clock"],
 		"modules-right":["tray"],
 
 		"wlr/workspaces": {
